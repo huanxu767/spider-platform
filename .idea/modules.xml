@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spider-admin/spider-admin.iml" filepath="$PROJECT_DIR$/spider-admin/spider-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spider-fileparse/spider-fileparse.iml" filepath="$PROJECT_DIR$/spider-fileparse/spider-fileparse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spider-platform.iml" filepath="$PROJECT_DIR$/spider-platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spider-queue/spider-queue.iml" filepath="$PROJECT_DIR$/spider-queue/spider-queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spider-worker/spider-worker.iml" filepath="$PROJECT_DIR$/spider-worker/spider-worker.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,30 @@
+
+
+
+#日志级别
+log.root.level = DEBUG
+#其他日志级别
+log.other.level = DEBUG
+#日志路径，这里是相对路径，web项目eclipse下会输出到eclipse的安装目录下，如果部署到linux上的tomcat下，会输出到tomcat/bin目录 下
+log.base = logs
+#模块名称， 影响日志配置名，日志文件名
+log.moduleName = spider-worker
+#日志文件大小
+log.max.size = 5MB
+
+proxy.url = 172.30.8.111
+proxy.port = 8080
+
+
+#测试
+#代理
+proxy.flag = true
+#目录 测试 ----------------------------------
+log.filepath = C:\\Users\\123\\Desktop\\remoteLogs\\work01\\
+
+#生产
+#代理
+#proxy.flag = false
+#目录 生产
+#log.filepath = /home/weblogic/java/log/
+

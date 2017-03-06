@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spider-admin" />
+        <module name="spider-fileparse" />
+        <module name="spider-queue" />
+        <module name="spider-worker" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.7">
+      <module name="spider-admin" target="1.7" />
+      <module name="spider-fileparse" target="1.7" />
+      <module name="spider-platform" target="1.5" />
+      <module name="spider-queue" target="1.7" />
+      <module name="spider-worker" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
