@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="spider-queue:war">
-    <output-path>$PROJECT_DIR$/spider-queue/target</output-path>
-    <root id="archive" name="spiderQueue.war">
-      <element id="artifact" artifact-name="spider-queue:war exploded" />
-    </root>
-  </artifact>
-</component>

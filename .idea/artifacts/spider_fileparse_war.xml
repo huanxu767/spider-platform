@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="spider-fileparse:war">
-    <output-path>$PROJECT_DIR$/spider-fileparse/target</output-path>
-    <root id="archive" name="spiderFileparse.war">
-      <element id="artifact" artifact-name="spider-fileparse:war exploded" />
-    </root>
-  </artifact>
-</component>
